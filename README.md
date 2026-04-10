@@ -29,7 +29,7 @@
   2. **[STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용](https://github.com/Appletea404/Project2_Elevator_WORK.git)**
   3. **[STM32F411 및 초음파 센서를 활용한 장애물 회피 자율주행 RC카](https://github.com/streamflow7598/Rccar_Auto_Final.git)**
 * **BASYS3** : **[BASYS3 기반 횡단보도 신호등 시스템 구현]()**
-* **Kotlin+Java** : **[건강관리 수첩 어플]()**
+* **Kotlin+Java** : **[건강관리 수첩 어플](https://github.com/streamflow7598/DiaryApp.git)**
 
 ---
 
